@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Add component: Footprint Not Found XL6009E1
+Added Net: Name=Net*5_B+
+Added Net: Name=Net*6_B+
+Added Net: Name=Net*6_P-
+Added Pin To Net: NetName=NetJ1_P$3 Pin=J2-1
+Added Net: Name=NetJ1_P$3
+Added Pin To Net: NetName=NetJ1_P$4 Pin=J2-4
+Added Net: Name=NetJ1_P$4
+Added Net: Name=NetV1_2
+Add Class Member: Failed to add class member : Component *1 Component_1
+Add Class Member: Failed to add class member : Component *2 Component_1
+Add Class Member: Failed to add class member : Component *3 Component_1
+Add Class Member: Failed to add class member : Component *4 Component_1
+Add Class Member: Failed to add class member : Component *5 TP 4056
+Add Class Member: Failed to add class member : Component *6 1S BMS
+Add Class Member: Failed to add class member : Component J1 XL6009E1
+Add Class Member: Failed to add class member : Component V1 Constant Voltage Source
+Add Class Member: Failed to add class member : Component V2 Constant Voltage Source
+Add Class Member: Failed to add class member : Component V3 Constant Voltage Source
