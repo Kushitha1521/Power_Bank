@@ -6,6 +6,6 @@ A power bank is a portable, battery-powered device designed to recharge electron
 Portable power banks are widely used to provide backup energy for mobile devices. This project focuses on designing a compact and efficient lithium-ion power bank system capable of delivering a stable 5V USB output.
 This suitable for the electronic devices such as Smartphones, IoT devices, Embedded systems and Portable electronics.
 
-<b>FULL REPORT: https://zenodo.org/records/19335148
+<b>FULL REPORT: https://zenodo.org/records/19335148<br>
 MEDIUM ARTICLE: https://medium.com/@kushithalakshitha/design-and-simulation-of-a-portable-18650-lithium-ion-power-bank-58e2851205b5
 </b>
